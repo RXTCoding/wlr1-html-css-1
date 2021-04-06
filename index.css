@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+#moreImp {
+    font-size: larger;
+    text-align: center;
+    background-color: gold;
+}
+
+a{
+    background-color: rgb(224, 213, 185);
+}
+a:hover {
+    background-color: blueviolet;
+}
+
+.secTitle{
+    padding: 50px;
+    border: rgb(49, 40, 58) 3px solid;
+    margin-left: 10px;
+    margin: 10px
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif
+    background-color: cadetblue;
+}
+
+#abSec{
+    margin: 5px;
+    background-color: darksalmon;
+}
+
